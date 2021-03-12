@@ -3,7 +3,6 @@ function main(numOne, numTwo){
    var myQuotient = numOne / numTwo;
     // Only change code above this line
     return myQuotient;
-
 }
 
 console.log(main(102.0, 25.5));    // Change this line

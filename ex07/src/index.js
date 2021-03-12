@@ -5,5 +5,5 @@ function main(numOne, numTwo){
    return remainder;
 }
 
-console.log(main(5, 2));
+console.log(main(5, 2));    //Change this line
 module.exports = main;

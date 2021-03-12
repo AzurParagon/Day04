@@ -10,7 +10,6 @@ return{
     myLastName,
     myHomeTown
     }; 
-
 }
 
 console.log(main());
